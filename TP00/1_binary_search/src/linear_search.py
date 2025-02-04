@@ -1,4 +1,4 @@
-from binary_search import binary_search
+from binary_search_with_sorted_list import binary_search
 
 def linear_search(sorted_list,target_value):
     for index, value in enumerate(sorted_list):
